@@ -6,7 +6,7 @@ function Trips() {
   const router = useRouter();
 
   return (
-<div class="container px-5 py-5 my-5" style={{height:"100vh"}} id="custom-cards">
+<div class="container px-5 py-5 my-5 auto " id="custom-cards">
     <h2 class="pb-2 border-bottom">Our Most Famous Trips</h2>
 
    <p class="lead">Close your eyes and imagine being in a place you’ve always wanted to visit. What if you could make that dream a reality? Knowing how to plan and use travel websites can help make a dream trip possible. </p>

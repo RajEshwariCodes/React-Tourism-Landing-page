@@ -7,9 +7,12 @@ body {
 }
 
 a {
-  color: inherit;
+  color: white;
   text-decoration: none;
 }
+p{
+}
+
 
 * {
   box-sizing: border-box;
@@ -21,6 +24,6 @@ a {
   }
   body {
     color: white;
-    background: black;
+    background: #F5F5F1;
   }
 }
